@@ -1,0 +1,5 @@
+$$ \LARGE{\Omega\,(n^2)} $$
+
+$$ \LARGE{\Theta\,(n \log n)} $$
+
+$$ \LARGE{\text{O}\left( \log n \right)} $$
